@@ -2,6 +2,8 @@
 authors = ["Brian Anderson <andersrb@gmail.com>"]
 name = "fancy_flocks"
 version = "0.1.0"
+description = "Cross-process reader-writer locks using file locks"
+license = "MIT/Apache-2.0/BSL-1.0"
 
 [dependencies]
 fs2 = "0.4.1"
